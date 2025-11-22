@@ -24,13 +24,13 @@ meta:
   </thead>
   <tbody>
     <tr>
-      <td>2024-02-12</td>
-      <td>2024-02-19</td>
-      <td>...22807318</td>
-      <td>HTTP requests from known botnets.</td>
+      <td>2024-03-12</td>
+      <td>2024-03-25</td>
+      <td>...d2f294d7</td>
+      <td>HTTP requests trying to impersonate browsers.</td>
       <td>ddos_dynamic</td>
       <td>ddos_dynamic</td>
-      <td>Expand rule logic to catch more attacks.</td>
+      <td>Update the rule to match to block attacks more consistently.</td>
     </tr>
   </tbody>
 </table>
